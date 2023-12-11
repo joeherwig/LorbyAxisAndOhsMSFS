@@ -1939,7 +1939,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>95</midiEvent>
+          <midiEvent>103</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -1981,7 +1981,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>96</midiEvent>
+          <midiEvent>104</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -2023,7 +2023,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>97</midiEvent>
+          <midiEvent>105</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -2065,7 +2065,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>98</midiEvent>
+          <midiEvent>106</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -2633,9 +2633,9 @@
         </GlobalHotkey>
         <GlobalHotkey>
           <downEvent>
-            <Group>0 - A320</Group>
+            <Group>1 - A320 MIP</Group>
             <Description>RPN</Description>
-            <SimulatorEventName>0 - A320-Autobrake LO</SimulatorEventName>
+            <SimulatorEventName>1 - A320 MIP-A32NX AUTOBRAKE LOW HARD-TOGGLE</SimulatorEventName>
             <MinValue>0</MinValue>
             <MaxValue>0</MaxValue>
             <ValueToSet>1</ValueToSet>
@@ -2670,7 +2670,7 @@
           <assignedKeys />
           <vkModifiers />
           <vkKeys />
-          <Action>script:0 - A320-Autobrake LO</Action>
+          <Action>script:1 - A320 MIP-A32NX AUTOBRAKE LOW HARD-TOGGLE</Action>
           <ControlLayer>0</ControlLayer>
         </GlobalHotkey>
       </buttons>
@@ -3655,9 +3655,9 @@
         </GlobalHotkey>
         <GlobalHotkey>
           <downEvent>
-            <Group>0 - A320</Group>
+            <Group>1 - A320 MIP</Group>
             <Description>RPN</Description>
-            <SimulatorEventName>0 - A320-Autobrake LO</SimulatorEventName>
+            <SimulatorEventName>1 - A320 MIP-A32NX AUTOBRAKE LOW HARD-TOGGLE</SimulatorEventName>
             <MinValue>0</MinValue>
             <MaxValue>0</MaxValue>
             <ValueToSet>1</ValueToSet>
@@ -3692,7 +3692,7 @@
           <assignedKeys />
           <vkModifiers />
           <vkKeys />
-          <Action>script:0 - A320-Autobrake LO</Action>
+          <Action>script:1 - A320 MIP-A32NX AUTOBRAKE LOW HARD-TOGGLE</Action>
           <ControlLayer>0</ControlLayer>
         </GlobalHotkey>
         <GlobalHotkey>
@@ -4484,48 +4484,6 @@
           <vkModifiers />
           <vkKeys />
           <Action>script:0 - A320-BARO STD Toggle</Action>
-          <ControlLayer>0</ControlLayer>
-        </GlobalHotkey>
-        <GlobalHotkey>
-          <downEvent>
-            <Group>Landing Gear / Brakes</Group>
-            <Description>Toggles the parking brake on/off Parameters: N/A</Description>
-            <SimulatorEventName>PARKING_BRAKES</SimulatorEventName>
-            <MinValue>0</MinValue>
-            <MaxValue>0</MaxValue>
-            <ValueToSet>1</ValueToSet>
-            <RollMultiplier>1</RollMultiplier>
-            <IsAaoVirtualEvent>false</IsAaoVirtualEvent>
-            <type>SINGLE</type>
-          </downEvent>
-          <repeat>16384</repeat>
-          <repeatFrequency>1</repeatFrequency>
-          <repeatLimit>0</repeatLimit>
-          <joystickGuid>00000000-0000-0000-0000-000000000000</joystickGuid>
-          <joystickName />
-          <joystickButton>-1</joystickButton>
-          <joystickPovControl>-1</joystickPovControl>
-          <joystickPovDirection>-1</joystickPovDirection>
-          <midiDeviceId>-400</midiDeviceId>
-          <midiChannel>1</midiChannel>
-          <midiEvent>78</midiEvent>
-          <endless>false</endless>
-          <rockerMode>false</rockerMode>
-          <midiEncoder>CLICK</midiEncoder>
-          <isSimKey>false</isSimKey>
-          <isOnOffSwitch>false</isOnOffSwitch>
-          <comboSuppressesEvent>false</comboSuppressesEvent>
-          <comboIsToggle>false</comboIsToggle>
-          <longClick>false</longClick>
-          <longClickTimeoutMs>0</longClickTimeoutMs>
-          <fastTurn>false</fastTurn>
-          <timeoutMs>0</timeoutMs>
-          <skipActuations>0</skipActuations>
-          <adaptiveRepeat>false</adaptiveRepeat>
-          <assignedKeys />
-          <vkModifiers />
-          <vkKeys />
-          <Action>PARKING_BRAKES</Action>
           <ControlLayer>0</ControlLayer>
         </GlobalHotkey>
         <GlobalHotkey>
@@ -5343,9 +5301,9 @@
         </GlobalHotkey>
         <GlobalHotkey>
           <downEvent>
-            <Group>0 - A320</Group>
+            <Group>1 - A320 MIP</Group>
             <Description>RPN</Description>
-            <SimulatorEventName>0 - A320-Autobrake LO</SimulatorEventName>
+            <SimulatorEventName>1 - A320 MIP-A32NX AUTOBRAKE MED HARD-TOGGLE</SimulatorEventName>
             <MinValue>0</MinValue>
             <MaxValue>0</MaxValue>
             <ValueToSet>1</ValueToSet>
@@ -5363,7 +5321,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>75</midiEvent>
+          <midiEvent>76</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -5380,7 +5338,217 @@
           <assignedKeys />
           <vkModifiers />
           <vkKeys />
-          <Action>script:0 - A320-Autobrake LO</Action>
+          <Action>script:1 - A320 MIP-A32NX AUTOBRAKE MED HARD-TOGGLE</Action>
+          <ControlLayer>0</ControlLayer>
+        </GlobalHotkey>
+        <GlobalHotkey>
+          <downEvent>
+            <Group>1 - A320 MIP</Group>
+            <Description>RPN</Description>
+            <SimulatorEventName>1 - A320 MIP-A32NX AUTOBRAKE MAX HARD-TOGGLE</SimulatorEventName>
+            <MinValue>0</MinValue>
+            <MaxValue>0</MaxValue>
+            <ValueToSet>1</ValueToSet>
+            <RollMultiplier>1</RollMultiplier>
+            <IsAaoVirtualEvent>false</IsAaoVirtualEvent>
+            <type>SCRIPT</type>
+          </downEvent>
+          <repeat>16384</repeat>
+          <repeatFrequency>1</repeatFrequency>
+          <repeatLimit>0</repeatLimit>
+          <joystickGuid>00000000-0000-0000-0000-000000000000</joystickGuid>
+          <joystickName />
+          <joystickButton>-1</joystickButton>
+          <joystickPovControl>-1</joystickPovControl>
+          <joystickPovDirection>-1</joystickPovDirection>
+          <midiDeviceId>-400</midiDeviceId>
+          <midiChannel>1</midiChannel>
+          <midiEvent>77</midiEvent>
+          <endless>false</endless>
+          <rockerMode>false</rockerMode>
+          <midiEncoder>CLICK</midiEncoder>
+          <isSimKey>false</isSimKey>
+          <isOnOffSwitch>false</isOnOffSwitch>
+          <comboSuppressesEvent>false</comboSuppressesEvent>
+          <comboIsToggle>false</comboIsToggle>
+          <longClick>false</longClick>
+          <longClickTimeoutMs>0</longClickTimeoutMs>
+          <fastTurn>false</fastTurn>
+          <timeoutMs>0</timeoutMs>
+          <skipActuations>0</skipActuations>
+          <adaptiveRepeat>false</adaptiveRepeat>
+          <assignedKeys />
+          <vkModifiers />
+          <vkKeys />
+          <Action>script:1 - A320 MIP-A32NX AUTOBRAKE MAX HARD-TOGGLE</Action>
+          <ControlLayer>0</ControlLayer>
+        </GlobalHotkey>
+        <GlobalHotkey>
+          <downEvent>
+            <Group>0 - A320 ECAM</Group>
+            <Description>RPN</Description>
+            <SimulatorEventName>0 - A320 ECAM-ECAM TO CFG</SimulatorEventName>
+            <MinValue>0</MinValue>
+            <MaxValue>0</MaxValue>
+            <ValueToSet>1</ValueToSet>
+            <RollMultiplier>1</RollMultiplier>
+            <IsAaoVirtualEvent>false</IsAaoVirtualEvent>
+            <type>SCRIPT</type>
+          </downEvent>
+          <repeat>16384</repeat>
+          <repeatFrequency>1</repeatFrequency>
+          <repeatLimit>0</repeatLimit>
+          <joystickGuid>00000000-0000-0000-0000-000000000000</joystickGuid>
+          <joystickName />
+          <joystickButton>-1</joystickButton>
+          <joystickPovControl>-1</joystickPovControl>
+          <joystickPovDirection>-1</joystickPovDirection>
+          <midiDeviceId>-400</midiDeviceId>
+          <midiChannel>1</midiChannel>
+          <midiEvent>158</midiEvent>
+          <endless>false</endless>
+          <rockerMode>false</rockerMode>
+          <midiEncoder>CLICK</midiEncoder>
+          <isSimKey>false</isSimKey>
+          <isOnOffSwitch>false</isOnOffSwitch>
+          <comboSuppressesEvent>false</comboSuppressesEvent>
+          <comboIsToggle>false</comboIsToggle>
+          <longClick>false</longClick>
+          <longClickTimeoutMs>0</longClickTimeoutMs>
+          <fastTurn>false</fastTurn>
+          <timeoutMs>0</timeoutMs>
+          <skipActuations>0</skipActuations>
+          <adaptiveRepeat>false</adaptiveRepeat>
+          <assignedKeys />
+          <vkModifiers />
+          <vkKeys />
+          <Action>script:0 - A320 ECAM-ECAM TO CFG</Action>
+          <ControlLayer>0</ControlLayer>
+        </GlobalHotkey>
+        <GlobalHotkey>
+          <downEvent>
+            <Group>1 - A320 PED</Group>
+            <Description>RPN</Description>
+            <SimulatorEventName>1 - A320 PED-A32NX ECAM PAGE CYCLE</SimulatorEventName>
+            <MinValue>0</MinValue>
+            <MaxValue>0</MaxValue>
+            <ValueToSet>1</ValueToSet>
+            <RollMultiplier>1</RollMultiplier>
+            <IsAaoVirtualEvent>false</IsAaoVirtualEvent>
+            <type>SCRIPT</type>
+          </downEvent>
+          <repeat>16384</repeat>
+          <repeatFrequency>1</repeatFrequency>
+          <repeatLimit>0</repeatLimit>
+          <joystickGuid>00000000-0000-0000-0000-000000000000</joystickGuid>
+          <joystickName />
+          <joystickButton>-1</joystickButton>
+          <joystickPovControl>-1</joystickPovControl>
+          <joystickPovDirection>-1</joystickPovDirection>
+          <midiDeviceId>-400</midiDeviceId>
+          <midiChannel>1</midiChannel>
+          <midiEvent>159</midiEvent>
+          <endless>false</endless>
+          <rockerMode>false</rockerMode>
+          <midiEncoder>CLICK</midiEncoder>
+          <isSimKey>false</isSimKey>
+          <isOnOffSwitch>false</isOnOffSwitch>
+          <comboSuppressesEvent>false</comboSuppressesEvent>
+          <comboIsToggle>false</comboIsToggle>
+          <longClick>false</longClick>
+          <longClickTimeoutMs>0</longClickTimeoutMs>
+          <fastTurn>false</fastTurn>
+          <timeoutMs>0</timeoutMs>
+          <skipActuations>0</skipActuations>
+          <adaptiveRepeat>false</adaptiveRepeat>
+          <assignedKeys />
+          <vkModifiers />
+          <vkKeys />
+          <Action>script:1 - A320 PED-A32NX ECAM PAGE CYCLE</Action>
+          <ControlLayer>0</ControlLayer>
+        </GlobalHotkey>
+        <GlobalHotkey>
+          <downEvent>
+            <Group>0 - A320 AP</Group>
+            <Description>RPN</Description>
+            <SimulatorEventName>0 - A320 AP-EXP toggle</SimulatorEventName>
+            <MinValue>0</MinValue>
+            <MaxValue>0</MaxValue>
+            <ValueToSet>1</ValueToSet>
+            <RollMultiplier>1</RollMultiplier>
+            <IsAaoVirtualEvent>false</IsAaoVirtualEvent>
+            <type>SCRIPT</type>
+          </downEvent>
+          <repeat>16384</repeat>
+          <repeatFrequency>1</repeatFrequency>
+          <repeatLimit>0</repeatLimit>
+          <joystickGuid>00000000-0000-0000-0000-000000000000</joystickGuid>
+          <joystickName />
+          <joystickButton>-1</joystickButton>
+          <joystickPovControl>-1</joystickPovControl>
+          <joystickPovDirection>-1</joystickPovDirection>
+          <midiDeviceId>-400</midiDeviceId>
+          <midiChannel>1</midiChannel>
+          <midiEvent>160</midiEvent>
+          <endless>false</endless>
+          <rockerMode>false</rockerMode>
+          <midiEncoder>CLICK</midiEncoder>
+          <isSimKey>false</isSimKey>
+          <isOnOffSwitch>false</isOnOffSwitch>
+          <comboSuppressesEvent>false</comboSuppressesEvent>
+          <comboIsToggle>false</comboIsToggle>
+          <longClick>false</longClick>
+          <longClickTimeoutMs>0</longClickTimeoutMs>
+          <fastTurn>false</fastTurn>
+          <timeoutMs>0</timeoutMs>
+          <skipActuations>0</skipActuations>
+          <adaptiveRepeat>false</adaptiveRepeat>
+          <assignedKeys />
+          <vkModifiers />
+          <vkKeys />
+          <Action>script:0 - A320 AP-EXP toggle</Action>
+          <ControlLayer>0</ControlLayer>
+        </GlobalHotkey>
+        <GlobalHotkey>
+          <downEvent>
+            <Group>Autopilot</Group>
+            <Description>Toggles approach hold (localizer and glide-slope) Parameters: N/A</Description>
+            <SimulatorEventName>AP_APR_HOLD</SimulatorEventName>
+            <MinValue>0</MinValue>
+            <MaxValue>0</MaxValue>
+            <ValueToSet>1</ValueToSet>
+            <RollMultiplier>1</RollMultiplier>
+            <IsAaoVirtualEvent>false</IsAaoVirtualEvent>
+            <type>SINGLE</type>
+          </downEvent>
+          <repeat>16384</repeat>
+          <repeatFrequency>1</repeatFrequency>
+          <repeatLimit>0</repeatLimit>
+          <joystickGuid>00000000-0000-0000-0000-000000000000</joystickGuid>
+          <joystickName />
+          <joystickButton>-1</joystickButton>
+          <joystickPovControl>-1</joystickPovControl>
+          <joystickPovDirection>-1</joystickPovDirection>
+          <midiDeviceId>-400</midiDeviceId>
+          <midiChannel>1</midiChannel>
+          <midiEvent>161</midiEvent>
+          <endless>false</endless>
+          <rockerMode>false</rockerMode>
+          <midiEncoder>CLICK</midiEncoder>
+          <isSimKey>false</isSimKey>
+          <isOnOffSwitch>false</isOnOffSwitch>
+          <comboSuppressesEvent>false</comboSuppressesEvent>
+          <comboIsToggle>false</comboIsToggle>
+          <longClick>false</longClick>
+          <longClickTimeoutMs>0</longClickTimeoutMs>
+          <fastTurn>false</fastTurn>
+          <timeoutMs>0</timeoutMs>
+          <skipActuations>0</skipActuations>
+          <adaptiveRepeat>false</adaptiveRepeat>
+          <assignedKeys />
+          <vkModifiers />
+          <vkKeys />
+          <Action>AP_APR_HOLD</Action>
           <ControlLayer>0</ControlLayer>
         </GlobalHotkey>
       </buttons>
@@ -6155,54 +6323,14 @@
       <webGaugesTemplateGuid>00000000-0000-0000-0000-000000000000</webGaugesTemplateGuid>
       <desktopWebsTemplateGuid>00000000-0000-0000-0000-000000000000</desktopWebsTemplateGuid>
       <remoteScriptIds>
-        <string>0 - A320 AP-AP 1</string>
-        <string>0 - A320 AP-LS toggle</string>
-        <string>0 - A320 AP-CSTR toggle</string>
-        <string>0 - A320 AP-WPT toggle</string>
-        <string>0 - A320 AP-VORD toggle</string>
-        <string>0 - A320 AP-NDB toggle</string>
-        <string>0 - A320 AP-ARPT toggle</string>
-        <string>0 - A320-TERR on ND L toggle</string>
-        <string>0 - A320 AP-SPD MACH TOGGLE</string>
-        <string>0 - A320 AP-VS dec</string>
-        <string>0 - A320 AP-SPD dec</string>
-        <string>0 - A320 AP-SPD inc</string>
-        <string>0 - A320 AP-SPD pull</string>
-        <string>0 - A320 AP-SPD push</string>
-        <string>0 - A320 AP-VS inc</string>
-        <string>0 - A320 AP-VS pull</string>
-        <string>0 - A320 AP-VS push</string>
-        <string>0 - A320 AP-HDG dec</string>
-        <string>0 - A320 AP-HDG inc</string>
-        <string>0 - A320 AP-HDG pull</string>
-        <string>0 - A320 AP-HDG push</string>
-        <string>0 - A320 AP-LOC toggle</string>
-        <string>0 - A320 AP-METRIC ALT TOGGLE</string>
+        <string>0 - A320 ECAM-ECAM TO CFG</string>
+        <string>0 - A320 ECAM-ECAM ALL</string>
+        <string>1 - A320 PED-A32NX ECAM PAGE CYCLE</string>
+        <string>0 - A320 AP-EXP toggle</string>
       </remoteScriptIds>
       <activeRemoteScriptIds>
-        <string>0 - A320 AP-AP 1</string>
-        <string>0 - A320 AP-LS toggle</string>
-        <string>0 - A320 AP-CSTR toggle</string>
-        <string>0 - A320 AP-WPT toggle</string>
-        <string>0 - A320 AP-VORD toggle</string>
-        <string>0 - A320 AP-NDB toggle</string>
-        <string>0 - A320 AP-ARPT toggle</string>
-        <string>0 - A320-TERR on ND L toggle</string>
-        <string>0 - A320 AP-SPD MACH TOGGLE</string>
-        <string>0 - A320 AP-VS dec</string>
-        <string>0 - A320 AP-SPD dec</string>
-        <string>0 - A320 AP-SPD inc</string>
-        <string>0 - A320 AP-SPD pull</string>
-        <string>0 - A320 AP-SPD push</string>
-        <string>0 - A320 AP-VS inc</string>
-        <string>0 - A320 AP-VS pull</string>
-        <string>0 - A320 AP-VS push</string>
-        <string>0 - A320 AP-HDG dec</string>
-        <string>0 - A320 AP-HDG inc</string>
-        <string>0 - A320 AP-HDG pull</string>
-        <string>0 - A320 AP-HDG push</string>
-        <string>0 - A320 AP-LOC toggle</string>
-        <string>0 - A320 AP-METRIC ALT TOGGLE</string>
+        <string>1 - A320 PED-A32NX ECAM PAGE CYCLE</string>
+        <string>0 - A320 AP-EXP toggle</string>
       </activeRemoteScriptIds>
       <bVarProfileGuid>00000000-0000-0000-0000-000000000000</bVarProfileGuid>
       <linkedTemplates>
