@@ -92,7 +92,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>90</midiEvent>
+          <midiEvent>97</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -133,7 +133,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>109</midiEvent>
+          <midiEvent>98</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -175,7 +175,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>18</midiEvent>
+          <midiEvent>19</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -217,7 +217,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>17</midiEvent>
+          <midiEvent>16</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -259,7 +259,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>19</midiEvent>
+          <midiEvent>18</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -427,7 +427,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>128</midiEvent>
+          <midiEvent>125</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -763,7 +763,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>102</midiEvent>
+          <midiEvent>113</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -805,7 +805,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>103</midiEvent>
+          <midiEvent>112</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -847,7 +847,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>100</midiEvent>
+          <midiEvent>109</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -889,7 +889,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>101</midiEvent>
+          <midiEvent>108</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -931,7 +931,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>125</midiEvent>
+          <midiEvent>122</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -973,7 +973,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>139</midiEvent>
+          <midiEvent>115</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -1015,7 +1015,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>138</midiEvent>
+          <midiEvent>114</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -1057,7 +1057,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>134</midiEvent>
+          <midiEvent>143</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -1099,7 +1099,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>133</midiEvent>
+          <midiEvent>130</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -1141,7 +1141,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>106</midiEvent>
+          <midiEvent>95</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -1183,7 +1183,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>107</midiEvent>
+          <midiEvent>93</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -1225,7 +1225,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>105</midiEvent>
+          <midiEvent>94</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -1267,7 +1267,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>104</midiEvent>
+          <midiEvent>140</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -1309,7 +1309,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>91</midiEvent>
+          <midiEvent>119</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -1351,7 +1351,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>92</midiEvent>
+          <midiEvent>118</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -1393,7 +1393,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>93</midiEvent>
+          <midiEvent>117</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -1435,7 +1435,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>94</midiEvent>
+          <midiEvent>116</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -1470,17 +1470,17 @@
           <repeat>16384</repeat>
           <repeatFrequency>1</repeatFrequency>
           <repeatLimit>0</repeatLimit>
-          <joystickGuid>00000000-0000-0000-0000-000000000000</joystickGuid>
-          <joystickName />
-          <joystickButton>-1</joystickButton>
+          <joystickGuid>41cdd480-317f-11ee-800f-444553540000</joystickGuid>
+          <joystickName>BU0836 Interface</joystickName>
+          <joystickButton>22</joystickButton>
           <joystickPovControl>-1</joystickPovControl>
           <joystickPovDirection>-1</joystickPovDirection>
-          <midiDeviceId>-400</midiDeviceId>
-          <midiChannel>1</midiChannel>
-          <midiEvent>126</midiEvent>
+          <midiDeviceId>-1</midiDeviceId>
+          <midiChannel>-1</midiChannel>
+          <midiEvent>-1</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
-          <midiEncoder>CLICK</midiEncoder>
+          <midiEncoder>NONE</midiEncoder>
           <isSimKey>false</isSimKey>
           <isOnOffSwitch>false</isOnOffSwitch>
           <comboSuppressesEvent>false</comboSuppressesEvent>
@@ -1519,7 +1519,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>129</midiEvent>
+          <midiEvent>133</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -1687,7 +1687,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>141</midiEvent>
+          <midiEvent>10</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -1771,7 +1771,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>118</midiEvent>
+          <midiEvent>101</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -2443,7 +2443,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>130</midiEvent>
+          <midiEvent>100</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -2527,7 +2527,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>132</midiEvent>
+          <midiEvent>131</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -2569,7 +2569,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>16</midiEvent>
+          <midiEvent>17</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -5131,6 +5131,258 @@
           <Action>script:0 - A320 Ext Lights-RWY Lights off</Action>
           <ControlLayer>0</ControlLayer>
         </GlobalHotkey>
+        <GlobalHotkey>
+          <downEvent>
+            <Group>0 - A320 AP</Group>
+            <Description>RPN</Description>
+            <SimulatorEventName>0 - A320 AP-CSTR toggle</SimulatorEventName>
+            <MinValue>0</MinValue>
+            <MaxValue>0</MaxValue>
+            <ValueToSet>1</ValueToSet>
+            <RollMultiplier>1</RollMultiplier>
+            <IsAaoVirtualEvent>false</IsAaoVirtualEvent>
+            <type>SCRIPT</type>
+          </downEvent>
+          <repeat>16384</repeat>
+          <repeatFrequency>1</repeatFrequency>
+          <repeatLimit>0</repeatLimit>
+          <joystickGuid>00000000-0000-0000-0000-000000000000</joystickGuid>
+          <joystickName />
+          <joystickButton>-1</joystickButton>
+          <joystickPovControl>-1</joystickPovControl>
+          <joystickPovDirection>-1</joystickPovDirection>
+          <midiDeviceId>-400</midiDeviceId>
+          <midiChannel>1</midiChannel>
+          <midiEvent>136</midiEvent>
+          <endless>false</endless>
+          <rockerMode>false</rockerMode>
+          <midiEncoder>CLICK</midiEncoder>
+          <isSimKey>false</isSimKey>
+          <isOnOffSwitch>false</isOnOffSwitch>
+          <comboSuppressesEvent>false</comboSuppressesEvent>
+          <comboIsToggle>false</comboIsToggle>
+          <longClick>false</longClick>
+          <longClickTimeoutMs>0</longClickTimeoutMs>
+          <fastTurn>false</fastTurn>
+          <timeoutMs>0</timeoutMs>
+          <skipActuations>0</skipActuations>
+          <adaptiveRepeat>false</adaptiveRepeat>
+          <assignedKeys />
+          <vkModifiers />
+          <vkKeys />
+          <Action>script:0 - A320 AP-CSTR toggle</Action>
+          <ControlLayer>0</ControlLayer>
+        </GlobalHotkey>
+        <GlobalHotkey>
+          <downEvent>
+            <Group>0 - A320 AP</Group>
+            <Description>RPN</Description>
+            <SimulatorEventName>0 - A320 AP-WPT toggle</SimulatorEventName>
+            <MinValue>0</MinValue>
+            <MaxValue>0</MaxValue>
+            <ValueToSet>1</ValueToSet>
+            <RollMultiplier>1</RollMultiplier>
+            <IsAaoVirtualEvent>false</IsAaoVirtualEvent>
+            <type>SCRIPT</type>
+          </downEvent>
+          <repeat>16384</repeat>
+          <repeatFrequency>1</repeatFrequency>
+          <repeatLimit>0</repeatLimit>
+          <joystickGuid>00000000-0000-0000-0000-000000000000</joystickGuid>
+          <joystickName />
+          <joystickButton>-1</joystickButton>
+          <joystickPovControl>-1</joystickPovControl>
+          <joystickPovDirection>-1</joystickPovDirection>
+          <midiDeviceId>-400</midiDeviceId>
+          <midiChannel>1</midiChannel>
+          <midiEvent>50</midiEvent>
+          <endless>false</endless>
+          <rockerMode>false</rockerMode>
+          <midiEncoder>CLICK</midiEncoder>
+          <isSimKey>false</isSimKey>
+          <isOnOffSwitch>false</isOnOffSwitch>
+          <comboSuppressesEvent>false</comboSuppressesEvent>
+          <comboIsToggle>false</comboIsToggle>
+          <longClick>false</longClick>
+          <longClickTimeoutMs>0</longClickTimeoutMs>
+          <fastTurn>false</fastTurn>
+          <timeoutMs>0</timeoutMs>
+          <skipActuations>0</skipActuations>
+          <adaptiveRepeat>false</adaptiveRepeat>
+          <assignedKeys />
+          <vkModifiers />
+          <vkKeys />
+          <Action>script:0 - A320 AP-WPT toggle</Action>
+          <ControlLayer>0</ControlLayer>
+        </GlobalHotkey>
+        <GlobalHotkey>
+          <downEvent>
+            <Group>0 - A320 AP</Group>
+            <Description>RPN</Description>
+            <SimulatorEventName>0 - A320 AP-VORD toggle</SimulatorEventName>
+            <MinValue>0</MinValue>
+            <MaxValue>0</MaxValue>
+            <ValueToSet>1</ValueToSet>
+            <RollMultiplier>1</RollMultiplier>
+            <IsAaoVirtualEvent>false</IsAaoVirtualEvent>
+            <type>SCRIPT</type>
+          </downEvent>
+          <repeat>16384</repeat>
+          <repeatFrequency>1</repeatFrequency>
+          <repeatLimit>0</repeatLimit>
+          <joystickGuid>00000000-0000-0000-0000-000000000000</joystickGuid>
+          <joystickName />
+          <joystickButton>-1</joystickButton>
+          <joystickPovControl>-1</joystickPovControl>
+          <joystickPovDirection>-1</joystickPovDirection>
+          <midiDeviceId>-400</midiDeviceId>
+          <midiChannel>1</midiChannel>
+          <midiEvent>137</midiEvent>
+          <endless>false</endless>
+          <rockerMode>false</rockerMode>
+          <midiEncoder>CLICK</midiEncoder>
+          <isSimKey>false</isSimKey>
+          <isOnOffSwitch>false</isOnOffSwitch>
+          <comboSuppressesEvent>false</comboSuppressesEvent>
+          <comboIsToggle>false</comboIsToggle>
+          <longClick>false</longClick>
+          <longClickTimeoutMs>0</longClickTimeoutMs>
+          <fastTurn>false</fastTurn>
+          <timeoutMs>0</timeoutMs>
+          <skipActuations>0</skipActuations>
+          <adaptiveRepeat>false</adaptiveRepeat>
+          <assignedKeys />
+          <vkModifiers />
+          <vkKeys />
+          <Action>script:0 - A320 AP-VORD toggle</Action>
+          <ControlLayer>0</ControlLayer>
+        </GlobalHotkey>
+        <GlobalHotkey>
+          <downEvent>
+            <Group>0 - A320 AP</Group>
+            <Description>RPN</Description>
+            <SimulatorEventName>0 - A320 AP-NDB toggle</SimulatorEventName>
+            <MinValue>0</MinValue>
+            <MaxValue>0</MaxValue>
+            <ValueToSet>1</ValueToSet>
+            <RollMultiplier>1</RollMultiplier>
+            <IsAaoVirtualEvent>false</IsAaoVirtualEvent>
+            <type>SCRIPT</type>
+          </downEvent>
+          <repeat>16384</repeat>
+          <repeatFrequency>1</repeatFrequency>
+          <repeatLimit>0</repeatLimit>
+          <joystickGuid>00000000-0000-0000-0000-000000000000</joystickGuid>
+          <joystickName />
+          <joystickButton>-1</joystickButton>
+          <joystickPovControl>-1</joystickPovControl>
+          <joystickPovDirection>-1</joystickPovDirection>
+          <midiDeviceId>-400</midiDeviceId>
+          <midiChannel>1</midiChannel>
+          <midiEvent>138</midiEvent>
+          <endless>false</endless>
+          <rockerMode>false</rockerMode>
+          <midiEncoder>CLICK</midiEncoder>
+          <isSimKey>false</isSimKey>
+          <isOnOffSwitch>false</isOnOffSwitch>
+          <comboSuppressesEvent>false</comboSuppressesEvent>
+          <comboIsToggle>false</comboIsToggle>
+          <longClick>false</longClick>
+          <longClickTimeoutMs>0</longClickTimeoutMs>
+          <fastTurn>false</fastTurn>
+          <timeoutMs>0</timeoutMs>
+          <skipActuations>0</skipActuations>
+          <adaptiveRepeat>false</adaptiveRepeat>
+          <assignedKeys />
+          <vkModifiers />
+          <vkKeys />
+          <Action>script:0 - A320 AP-NDB toggle</Action>
+          <ControlLayer>0</ControlLayer>
+        </GlobalHotkey>
+        <GlobalHotkey>
+          <downEvent>
+            <Group>0 - A320 AP</Group>
+            <Description>RPN</Description>
+            <SimulatorEventName>0 - A320 AP-ARPT toggle</SimulatorEventName>
+            <MinValue>0</MinValue>
+            <MaxValue>0</MaxValue>
+            <ValueToSet>1</ValueToSet>
+            <RollMultiplier>1</RollMultiplier>
+            <IsAaoVirtualEvent>false</IsAaoVirtualEvent>
+            <type>SCRIPT</type>
+          </downEvent>
+          <repeat>16384</repeat>
+          <repeatFrequency>1</repeatFrequency>
+          <repeatLimit>0</repeatLimit>
+          <joystickGuid>00000000-0000-0000-0000-000000000000</joystickGuid>
+          <joystickName />
+          <joystickButton>-1</joystickButton>
+          <joystickPovControl>-1</joystickPovControl>
+          <joystickPovDirection>-1</joystickPovDirection>
+          <midiDeviceId>-400</midiDeviceId>
+          <midiChannel>1</midiChannel>
+          <midiEvent>51</midiEvent>
+          <endless>false</endless>
+          <rockerMode>false</rockerMode>
+          <midiEncoder>CLICK</midiEncoder>
+          <isSimKey>false</isSimKey>
+          <isOnOffSwitch>false</isOnOffSwitch>
+          <comboSuppressesEvent>false</comboSuppressesEvent>
+          <comboIsToggle>false</comboIsToggle>
+          <longClick>false</longClick>
+          <longClickTimeoutMs>0</longClickTimeoutMs>
+          <fastTurn>false</fastTurn>
+          <timeoutMs>0</timeoutMs>
+          <skipActuations>0</skipActuations>
+          <adaptiveRepeat>false</adaptiveRepeat>
+          <assignedKeys />
+          <vkModifiers />
+          <vkKeys />
+          <Action>script:0 - A320 AP-ARPT toggle</Action>
+          <ControlLayer>0</ControlLayer>
+        </GlobalHotkey>
+        <GlobalHotkey>
+          <downEvent>
+            <Group>0 - A320</Group>
+            <Description>RPN</Description>
+            <SimulatorEventName>0 - A320-Autobrake LO</SimulatorEventName>
+            <MinValue>0</MinValue>
+            <MaxValue>0</MaxValue>
+            <ValueToSet>1</ValueToSet>
+            <RollMultiplier>1</RollMultiplier>
+            <IsAaoVirtualEvent>false</IsAaoVirtualEvent>
+            <type>SCRIPT</type>
+          </downEvent>
+          <repeat>16384</repeat>
+          <repeatFrequency>1</repeatFrequency>
+          <repeatLimit>0</repeatLimit>
+          <joystickGuid>00000000-0000-0000-0000-000000000000</joystickGuid>
+          <joystickName />
+          <joystickButton>-1</joystickButton>
+          <joystickPovControl>-1</joystickPovControl>
+          <joystickPovDirection>-1</joystickPovDirection>
+          <midiDeviceId>-400</midiDeviceId>
+          <midiChannel>1</midiChannel>
+          <midiEvent>75</midiEvent>
+          <endless>false</endless>
+          <rockerMode>false</rockerMode>
+          <midiEncoder>CLICK</midiEncoder>
+          <isSimKey>false</isSimKey>
+          <isOnOffSwitch>false</isOnOffSwitch>
+          <comboSuppressesEvent>false</comboSuppressesEvent>
+          <comboIsToggle>false</comboIsToggle>
+          <longClick>false</longClick>
+          <longClickTimeoutMs>0</longClickTimeoutMs>
+          <fastTurn>false</fastTurn>
+          <timeoutMs>0</timeoutMs>
+          <skipActuations>0</skipActuations>
+          <adaptiveRepeat>false</adaptiveRepeat>
+          <assignedKeys />
+          <vkModifiers />
+          <vkKeys />
+          <Action>script:0 - A320-Autobrake LO</Action>
+          <ControlLayer>0</ControlLayer>
+        </GlobalHotkey>
       </buttons>
       <axis>
         <GlobalAxis>
@@ -5903,12 +6155,54 @@
       <webGaugesTemplateGuid>00000000-0000-0000-0000-000000000000</webGaugesTemplateGuid>
       <desktopWebsTemplateGuid>00000000-0000-0000-0000-000000000000</desktopWebsTemplateGuid>
       <remoteScriptIds>
-        <string>1 - A320 OVHD-A32NX CABIN SEATBELT SIGNS ON</string>
-        <string>1 - A320 OVHD-A32NX CABIN SEATBELT SIGNS OFF</string>
+        <string>0 - A320 AP-AP 1</string>
+        <string>0 - A320 AP-LS toggle</string>
+        <string>0 - A320 AP-CSTR toggle</string>
+        <string>0 - A320 AP-WPT toggle</string>
+        <string>0 - A320 AP-VORD toggle</string>
+        <string>0 - A320 AP-NDB toggle</string>
+        <string>0 - A320 AP-ARPT toggle</string>
+        <string>0 - A320-TERR on ND L toggle</string>
+        <string>0 - A320 AP-SPD MACH TOGGLE</string>
+        <string>0 - A320 AP-VS dec</string>
+        <string>0 - A320 AP-SPD dec</string>
+        <string>0 - A320 AP-SPD inc</string>
+        <string>0 - A320 AP-SPD pull</string>
+        <string>0 - A320 AP-SPD push</string>
+        <string>0 - A320 AP-VS inc</string>
+        <string>0 - A320 AP-VS pull</string>
+        <string>0 - A320 AP-VS push</string>
+        <string>0 - A320 AP-HDG dec</string>
+        <string>0 - A320 AP-HDG inc</string>
+        <string>0 - A320 AP-HDG pull</string>
+        <string>0 - A320 AP-HDG push</string>
+        <string>0 - A320 AP-LOC toggle</string>
+        <string>0 - A320 AP-METRIC ALT TOGGLE</string>
       </remoteScriptIds>
       <activeRemoteScriptIds>
-        <string>1 - A320 OVHD-A32NX CABIN SEATBELT SIGNS ON</string>
-        <string>1 - A320 OVHD-A32NX CABIN SEATBELT SIGNS OFF</string>
+        <string>0 - A320 AP-AP 1</string>
+        <string>0 - A320 AP-LS toggle</string>
+        <string>0 - A320 AP-CSTR toggle</string>
+        <string>0 - A320 AP-WPT toggle</string>
+        <string>0 - A320 AP-VORD toggle</string>
+        <string>0 - A320 AP-NDB toggle</string>
+        <string>0 - A320 AP-ARPT toggle</string>
+        <string>0 - A320-TERR on ND L toggle</string>
+        <string>0 - A320 AP-SPD MACH TOGGLE</string>
+        <string>0 - A320 AP-VS dec</string>
+        <string>0 - A320 AP-SPD dec</string>
+        <string>0 - A320 AP-SPD inc</string>
+        <string>0 - A320 AP-SPD pull</string>
+        <string>0 - A320 AP-SPD push</string>
+        <string>0 - A320 AP-VS inc</string>
+        <string>0 - A320 AP-VS pull</string>
+        <string>0 - A320 AP-VS push</string>
+        <string>0 - A320 AP-HDG dec</string>
+        <string>0 - A320 AP-HDG inc</string>
+        <string>0 - A320 AP-HDG pull</string>
+        <string>0 - A320 AP-HDG push</string>
+        <string>0 - A320 AP-LOC toggle</string>
+        <string>0 - A320 AP-METRIC ALT TOGGLE</string>
       </activeRemoteScriptIds>
       <bVarProfileGuid>00000000-0000-0000-0000-000000000000</bVarProfileGuid>
       <linkedTemplates>
