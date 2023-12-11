@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DeviceBlacklist xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <devices>
+    <DisabledJoystick>
+      <InstanceGuid>41cdd480-317f-11ee-8010-444553540000</InstanceGuid>
+      <MidiDeviceId>0</MidiDeviceId>
+      <InstanceName>Plantronics .Audio 478 USB</InstanceName>
+    </DisabledJoystick>
+    <DisabledJoystick>
+      <InstanceGuid>41cdad70-317f-11ee-800c-444553540000</InstanceGuid>
+      <MidiDeviceId>0</MidiDeviceId>
+      <InstanceName>MFG Crosswind V2</InstanceName>
+    </DisabledJoystick>
+    <DisabledJoystick>
+      <InstanceGuid>41cdfb90-317f-11ee-8012-444553540000</InstanceGuid>
+      <MidiDeviceId>0</MidiDeviceId>
+      <InstanceName>Gamepad One</InstanceName>
+    </DisabledJoystick>
+  </devices>
+</DeviceBlacklist>
