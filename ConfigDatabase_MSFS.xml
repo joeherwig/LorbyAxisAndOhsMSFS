@@ -679,7 +679,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>116</midiEvent>
+          <midiEvent>99</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -721,7 +721,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>115</midiEvent>
+          <midiEvent>126</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -1603,7 +1603,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>110</midiEvent>
+          <midiEvent>91</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -1645,7 +1645,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>112</midiEvent>
+          <midiEvent>86</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -1855,7 +1855,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>111</midiEvent>
+          <midiEvent>89</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -3608,7 +3608,7 @@
     </AircraftConfiguration>
     <AircraftConfiguration>
       <aircraftId>Airbus A320 Neo NetJets</aircraftId>
-      <airFileId>SimObjects\Airplanes\FlyByWire_A320_NEO\aircraft.CFG</airFileId>
+      <airFileId>H:\MSFS\Community\flybywire-aircraft-a320-neo\SimObjects\Airplanes\FlyByWire_A320_NEO\aircraft.CFG</airFileId>
       <loadFromMaster>false</loadFromMaster>
       <buttons>
         <GlobalHotkey>
@@ -3958,59 +3958,6 @@
           <vkModifiers />
           <vkKeys />
           <Action>script:0 - A320 Ext Lights-LL right off</Action>
-          <ControlLayer>0</ControlLayer>
-        </GlobalHotkey>
-        <GlobalHotkey>
-          <downEvent>
-            <Group>0 - A320 Ext Lights</Group>
-            <Description>RPN</Description>
-            <SimulatorEventName>0 - A320 Ext Lights-RWY Lights on</SimulatorEventName>
-            <MinValue>0</MinValue>
-            <MaxValue>0</MaxValue>
-            <ValueToSet>1</ValueToSet>
-            <RollMultiplier>1</RollMultiplier>
-            <IsAaoVirtualEvent>false</IsAaoVirtualEvent>
-            <type>SCRIPT</type>
-          </downEvent>
-          <upEvent>
-            <Group>0 - A320 Ext Lights</Group>
-            <Description>RPN</Description>
-            <SimulatorEventName>0 - A320 Ext Lights-RWY Lights off</SimulatorEventName>
-            <MinValue>0</MinValue>
-            <MaxValue>0</MaxValue>
-            <ValueToSet>1</ValueToSet>
-            <RollMultiplier>1</RollMultiplier>
-            <IsAaoVirtualEvent>false</IsAaoVirtualEvent>
-            <type>SCRIPT</type>
-          </upEvent>
-          <repeat>16384</repeat>
-          <repeatFrequency>1</repeatFrequency>
-          <repeatLimit>0</repeatLimit>
-          <joystickGuid>41cdd480-317f-11ee-800e-444553540000</joystickGuid>
-          <joystickName>Joystick - HOTAS Warthog</joystickName>
-          <joystickButton>2</joystickButton>
-          <joystickPovControl>-1</joystickPovControl>
-          <joystickPovDirection>-1</joystickPovDirection>
-          <midiDeviceId>-1</midiDeviceId>
-          <midiChannel>-1</midiChannel>
-          <midiEvent>-1</midiEvent>
-          <endless>false</endless>
-          <rockerMode>false</rockerMode>
-          <midiEncoder>NONE</midiEncoder>
-          <isSimKey>false</isSimKey>
-          <isOnOffSwitch>false</isOnOffSwitch>
-          <comboSuppressesEvent>false</comboSuppressesEvent>
-          <comboIsToggle>false</comboIsToggle>
-          <longClick>false</longClick>
-          <longClickTimeoutMs>0</longClickTimeoutMs>
-          <fastTurn>false</fastTurn>
-          <timeoutMs>0</timeoutMs>
-          <skipActuations>0</skipActuations>
-          <adaptiveRepeat>false</adaptiveRepeat>
-          <assignedKeys />
-          <vkModifiers />
-          <vkKeys />
-          <Action>script:0 - A320 Ext Lights-RWY Lights off</Action>
           <ControlLayer>0</ControlLayer>
         </GlobalHotkey>
         <GlobalHotkey>
@@ -5489,7 +5436,7 @@
           <joystickPovDirection>-1</joystickPovDirection>
           <midiDeviceId>-400</midiDeviceId>
           <midiChannel>1</midiChannel>
-          <midiEvent>160</midiEvent>
+          <midiEvent>161</midiEvent>
           <endless>false</endless>
           <rockerMode>false</rockerMode>
           <midiEncoder>CLICK</midiEncoder>
@@ -5549,6 +5496,300 @@
           <vkModifiers />
           <vkKeys />
           <Action>AP_APR_HOLD</Action>
+          <ControlLayer>0</ControlLayer>
+        </GlobalHotkey>
+        <GlobalHotkey>
+          <downEvent>
+            <Group>0 - A320 AP</Group>
+            <Description>RPN</Description>
+            <SimulatorEventName>0 - A320 AP-ADFVOR1 L off</SimulatorEventName>
+            <MinValue>0</MinValue>
+            <MaxValue>0</MaxValue>
+            <ValueToSet>1</ValueToSet>
+            <RollMultiplier>1</RollMultiplier>
+            <IsAaoVirtualEvent>false</IsAaoVirtualEvent>
+            <type>SCRIPT</type>
+          </downEvent>
+          <repeat>16384</repeat>
+          <repeatFrequency>1</repeatFrequency>
+          <repeatLimit>0</repeatLimit>
+          <joystickGuid>00000000-0000-0000-0000-000000000000</joystickGuid>
+          <joystickName />
+          <joystickButton>-1</joystickButton>
+          <joystickPovControl>-1</joystickPovControl>
+          <joystickPovDirection>-1</joystickPovDirection>
+          <midiDeviceId>-400</midiDeviceId>
+          <midiChannel>1</midiChannel>
+          <midiEvent>90</midiEvent>
+          <endless>false</endless>
+          <rockerMode>false</rockerMode>
+          <midiEncoder>CLICK</midiEncoder>
+          <isSimKey>false</isSimKey>
+          <isOnOffSwitch>false</isOnOffSwitch>
+          <comboSuppressesEvent>false</comboSuppressesEvent>
+          <comboIsToggle>false</comboIsToggle>
+          <longClick>false</longClick>
+          <longClickTimeoutMs>0</longClickTimeoutMs>
+          <fastTurn>false</fastTurn>
+          <timeoutMs>0</timeoutMs>
+          <skipActuations>0</skipActuations>
+          <adaptiveRepeat>false</adaptiveRepeat>
+          <assignedKeys />
+          <vkModifiers />
+          <vkKeys />
+          <Action>script:0 - A320 AP-ADFVOR1 L off</Action>
+          <ControlLayer>0</ControlLayer>
+        </GlobalHotkey>
+        <GlobalHotkey>
+          <downEvent>
+            <Group>0 - A320 AP</Group>
+            <Description>RPN</Description>
+            <SimulatorEventName>0 - A320 AP-ADFVOR2 L off</SimulatorEventName>
+            <MinValue>0</MinValue>
+            <MaxValue>0</MaxValue>
+            <ValueToSet>1</ValueToSet>
+            <RollMultiplier>1</RollMultiplier>
+            <IsAaoVirtualEvent>false</IsAaoVirtualEvent>
+            <type>SCRIPT</type>
+          </downEvent>
+          <repeat>16384</repeat>
+          <repeatFrequency>1</repeatFrequency>
+          <repeatLimit>0</repeatLimit>
+          <joystickGuid>00000000-0000-0000-0000-000000000000</joystickGuid>
+          <joystickName />
+          <joystickButton>-1</joystickButton>
+          <joystickPovControl>-1</joystickPovControl>
+          <joystickPovDirection>-1</joystickPovDirection>
+          <midiDeviceId>-400</midiDeviceId>
+          <midiChannel>1</midiChannel>
+          <midiEvent>96</midiEvent>
+          <endless>false</endless>
+          <rockerMode>false</rockerMode>
+          <midiEncoder>CLICK</midiEncoder>
+          <isSimKey>false</isSimKey>
+          <isOnOffSwitch>false</isOnOffSwitch>
+          <comboSuppressesEvent>false</comboSuppressesEvent>
+          <comboIsToggle>false</comboIsToggle>
+          <longClick>false</longClick>
+          <longClickTimeoutMs>0</longClickTimeoutMs>
+          <fastTurn>false</fastTurn>
+          <timeoutMs>0</timeoutMs>
+          <skipActuations>0</skipActuations>
+          <adaptiveRepeat>false</adaptiveRepeat>
+          <assignedKeys />
+          <vkModifiers />
+          <vkKeys />
+          <Action>script:0 - A320 AP-ADFVOR2 L off</Action>
+          <ControlLayer>0</ControlLayer>
+        </GlobalHotkey>
+        <GlobalHotkey>
+          <downEvent>
+            <Group>0 - A320 AP</Group>
+            <Description>RPN</Description>
+            <SimulatorEventName>0 - A320 AP-ADFVOR1 L off</SimulatorEventName>
+            <MinValue>0</MinValue>
+            <MaxValue>0</MaxValue>
+            <ValueToSet>1</ValueToSet>
+            <RollMultiplier>1</RollMultiplier>
+            <IsAaoVirtualEvent>false</IsAaoVirtualEvent>
+            <type>SCRIPT</type>
+          </downEvent>
+          <repeat>16384</repeat>
+          <repeatFrequency>1</repeatFrequency>
+          <repeatLimit>0</repeatLimit>
+          <joystickGuid>00000000-0000-0000-0000-000000000000</joystickGuid>
+          <joystickName />
+          <joystickButton>-1</joystickButton>
+          <joystickPovControl>-1</joystickPovControl>
+          <joystickPovDirection>-1</joystickPovDirection>
+          <midiDeviceId>-400</midiDeviceId>
+          <midiChannel>1</midiChannel>
+          <midiEvent>92</midiEvent>
+          <endless>false</endless>
+          <rockerMode>false</rockerMode>
+          <midiEncoder>CLICK</midiEncoder>
+          <isSimKey>false</isSimKey>
+          <isOnOffSwitch>false</isOnOffSwitch>
+          <comboSuppressesEvent>false</comboSuppressesEvent>
+          <comboIsToggle>false</comboIsToggle>
+          <longClick>false</longClick>
+          <longClickTimeoutMs>0</longClickTimeoutMs>
+          <fastTurn>false</fastTurn>
+          <timeoutMs>0</timeoutMs>
+          <skipActuations>0</skipActuations>
+          <adaptiveRepeat>false</adaptiveRepeat>
+          <assignedKeys />
+          <vkModifiers />
+          <vkKeys />
+          <Action>script:0 - A320 AP-ADFVOR1 L off</Action>
+          <ControlLayer>0</ControlLayer>
+        </GlobalHotkey>
+        <GlobalHotkey>
+          <downEvent>
+            <Group>0 - A320 AP</Group>
+            <Description>RPN</Description>
+            <SimulatorEventName>0 - A320 AP-ADFVOR2 L off</SimulatorEventName>
+            <MinValue>0</MinValue>
+            <MaxValue>0</MaxValue>
+            <ValueToSet>1</ValueToSet>
+            <RollMultiplier>1</RollMultiplier>
+            <IsAaoVirtualEvent>false</IsAaoVirtualEvent>
+            <type>SCRIPT</type>
+          </downEvent>
+          <repeat>16384</repeat>
+          <repeatFrequency>1</repeatFrequency>
+          <repeatLimit>0</repeatLimit>
+          <joystickGuid>00000000-0000-0000-0000-000000000000</joystickGuid>
+          <joystickName />
+          <joystickButton>-1</joystickButton>
+          <joystickPovControl>-1</joystickPovControl>
+          <joystickPovDirection>-1</joystickPovDirection>
+          <midiDeviceId>-400</midiDeviceId>
+          <midiChannel>1</midiChannel>
+          <midiEvent>87</midiEvent>
+          <endless>false</endless>
+          <rockerMode>false</rockerMode>
+          <midiEncoder>CLICK</midiEncoder>
+          <isSimKey>false</isSimKey>
+          <isOnOffSwitch>false</isOnOffSwitch>
+          <comboSuppressesEvent>false</comboSuppressesEvent>
+          <comboIsToggle>false</comboIsToggle>
+          <longClick>false</longClick>
+          <longClickTimeoutMs>0</longClickTimeoutMs>
+          <fastTurn>false</fastTurn>
+          <timeoutMs>0</timeoutMs>
+          <skipActuations>0</skipActuations>
+          <adaptiveRepeat>false</adaptiveRepeat>
+          <assignedKeys />
+          <vkModifiers />
+          <vkKeys />
+          <Action>script:0 - A320 AP-ADFVOR2 L off</Action>
+          <ControlLayer>0</ControlLayer>
+        </GlobalHotkey>
+        <GlobalHotkey>
+          <downEvent>
+            <Group>0 - A320</Group>
+            <Description>RPN</Description>
+            <SimulatorEventName>0 - A320-BRK FAN toggle</SimulatorEventName>
+            <MinValue>0</MinValue>
+            <MaxValue>0</MaxValue>
+            <ValueToSet>1</ValueToSet>
+            <RollMultiplier>1</RollMultiplier>
+            <IsAaoVirtualEvent>false</IsAaoVirtualEvent>
+            <type>SCRIPT</type>
+          </downEvent>
+          <repeat>16384</repeat>
+          <repeatFrequency>1</repeatFrequency>
+          <repeatLimit>0</repeatLimit>
+          <joystickGuid>00000000-0000-0000-0000-000000000000</joystickGuid>
+          <joystickName />
+          <joystickButton>-1</joystickButton>
+          <joystickPovControl>-1</joystickPovControl>
+          <joystickPovDirection>-1</joystickPovDirection>
+          <midiDeviceId>-400</midiDeviceId>
+          <midiChannel>1</midiChannel>
+          <midiEvent>74</midiEvent>
+          <endless>false</endless>
+          <rockerMode>false</rockerMode>
+          <midiEncoder>CLICK</midiEncoder>
+          <isSimKey>false</isSimKey>
+          <isOnOffSwitch>false</isOnOffSwitch>
+          <comboSuppressesEvent>false</comboSuppressesEvent>
+          <comboIsToggle>false</comboIsToggle>
+          <longClick>false</longClick>
+          <longClickTimeoutMs>0</longClickTimeoutMs>
+          <fastTurn>false</fastTurn>
+          <timeoutMs>0</timeoutMs>
+          <skipActuations>0</skipActuations>
+          <adaptiveRepeat>false</adaptiveRepeat>
+          <assignedKeys />
+          <vkModifiers />
+          <vkKeys />
+          <Action>script:0 - A320-BRK FAN toggle</Action>
+          <ControlLayer>0</ControlLayer>
+        </GlobalHotkey>
+        <GlobalHotkey>
+          <downEvent>
+            <Group>1 - A320 OVHD</Group>
+            <Description>RPN</Description>
+            <SimulatorEventName>1 - A320 OVHD-A32NX OVHD DOME LIGHTS CYCLE</SimulatorEventName>
+            <MinValue>0</MinValue>
+            <MaxValue>0</MaxValue>
+            <ValueToSet>1</ValueToSet>
+            <RollMultiplier>1</RollMultiplier>
+            <IsAaoVirtualEvent>false</IsAaoVirtualEvent>
+            <type>SCRIPT</type>
+          </downEvent>
+          <repeat>16384</repeat>
+          <repeatFrequency>1</repeatFrequency>
+          <repeatLimit>0</repeatLimit>
+          <joystickGuid>00000000-0000-0000-0000-000000000000</joystickGuid>
+          <joystickName />
+          <joystickButton>-1</joystickButton>
+          <joystickPovControl>-1</joystickPovControl>
+          <joystickPovDirection>-1</joystickPovDirection>
+          <midiDeviceId>-400</midiDeviceId>
+          <midiChannel>1</midiChannel>
+          <midiEvent>162</midiEvent>
+          <endless>false</endless>
+          <rockerMode>false</rockerMode>
+          <midiEncoder>CLICK</midiEncoder>
+          <isSimKey>false</isSimKey>
+          <isOnOffSwitch>false</isOnOffSwitch>
+          <comboSuppressesEvent>false</comboSuppressesEvent>
+          <comboIsToggle>false</comboIsToggle>
+          <longClick>false</longClick>
+          <longClickTimeoutMs>0</longClickTimeoutMs>
+          <fastTurn>false</fastTurn>
+          <timeoutMs>0</timeoutMs>
+          <skipActuations>0</skipActuations>
+          <adaptiveRepeat>false</adaptiveRepeat>
+          <assignedKeys />
+          <vkModifiers />
+          <vkKeys />
+          <Action>script:1 - A320 OVHD-A32NX OVHD DOME LIGHTS CYCLE</Action>
+          <ControlLayer>0</ControlLayer>
+        </GlobalHotkey>
+        <GlobalHotkey>
+          <downEvent>
+            <Group>0 - A320</Group>
+            <Description>RPN</Description>
+            <SimulatorEventName>0 - A320-CHRONO L push</SimulatorEventName>
+            <MinValue>0</MinValue>
+            <MaxValue>0</MaxValue>
+            <ValueToSet>1</ValueToSet>
+            <RollMultiplier>1</RollMultiplier>
+            <IsAaoVirtualEvent>false</IsAaoVirtualEvent>
+            <type>SCRIPT</type>
+          </downEvent>
+          <repeat>16384</repeat>
+          <repeatFrequency>1</repeatFrequency>
+          <repeatLimit>0</repeatLimit>
+          <joystickGuid>41cdd480-317f-11ee-800f-444553540000</joystickGuid>
+          <joystickName>BU0836 Interface</joystickName>
+          <joystickButton>20</joystickButton>
+          <joystickPovControl>-1</joystickPovControl>
+          <joystickPovDirection>-1</joystickPovDirection>
+          <midiDeviceId>-1</midiDeviceId>
+          <midiChannel>-1</midiChannel>
+          <midiEvent>-1</midiEvent>
+          <endless>false</endless>
+          <rockerMode>false</rockerMode>
+          <midiEncoder>NONE</midiEncoder>
+          <isSimKey>false</isSimKey>
+          <isOnOffSwitch>false</isOnOffSwitch>
+          <comboSuppressesEvent>false</comboSuppressesEvent>
+          <comboIsToggle>false</comboIsToggle>
+          <longClick>false</longClick>
+          <longClickTimeoutMs>0</longClickTimeoutMs>
+          <fastTurn>false</fastTurn>
+          <timeoutMs>0</timeoutMs>
+          <skipActuations>0</skipActuations>
+          <adaptiveRepeat>false</adaptiveRepeat>
+          <assignedKeys />
+          <vkModifiers />
+          <vkKeys />
+          <Action>script:0 - A320-CHRONO L push</Action>
           <ControlLayer>0</ControlLayer>
         </GlobalHotkey>
       </buttons>
@@ -6322,16 +6563,8 @@
       <desktopGaugesTemplateGuid>00000000-0000-0000-0000-000000000000</desktopGaugesTemplateGuid>
       <webGaugesTemplateGuid>00000000-0000-0000-0000-000000000000</webGaugesTemplateGuid>
       <desktopWebsTemplateGuid>00000000-0000-0000-0000-000000000000</desktopWebsTemplateGuid>
-      <remoteScriptIds>
-        <string>0 - A320 ECAM-ECAM TO CFG</string>
-        <string>0 - A320 ECAM-ECAM ALL</string>
-        <string>1 - A320 PED-A32NX ECAM PAGE CYCLE</string>
-        <string>0 - A320 AP-EXP toggle</string>
-      </remoteScriptIds>
-      <activeRemoteScriptIds>
-        <string>1 - A320 PED-A32NX ECAM PAGE CYCLE</string>
-        <string>0 - A320 AP-EXP toggle</string>
-      </activeRemoteScriptIds>
+      <remoteScriptIds />
+      <activeRemoteScriptIds />
       <bVarProfileGuid>00000000-0000-0000-0000-000000000000</bVarProfileGuid>
       <linkedTemplates>
         <string>Joes A32nx FCU</string>
