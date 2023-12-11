@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DisplayProfileDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <displayProfiles>
+    <DisplayProfile>
+      <guid>e3191e0c-124c-438c-b35c-ada664790665</guid>
+      <description>FBW A320</description>
+      <MainDisplayTopLeft>%(L:A32NX_AUTOPILOT_ACTIVE, Bool) 1 ==%{if}AP{else}  {end} %(L:A32NX_FCU_SPD_MANAGED_DOT, Bool) (A:AUTOPILOT MANAGED SPEED IN MACH, Bool) + 0 == AND%{if}SPD {else}%(A:AUTOPILOT MANAGED SPEED IN MACH, Bool) (L:A32NX_FCU_SPD_MANAGED_DOT, Number) 0 == AND%{if}MCH {else}%(L:A32NX_FCU_SPD_MANAGED_DOT, Bool) (A:AUTOPILOT MANAGED SPEED IN MACH, Bool) + 2 ==%{if}MCH*{else}%(A:AUTOPILOT MANAGED SPEED IN MACH, Bool) 0 == (L:A32NX_FCU_SPD_MANAGED_DOT, Number) 1 == AND%{if}SPD*{end}{end}{end}{end}%(L:A32NX_PARK_BRAKE_LEVER_POS, Bool) 1 ==%{if} PRK BRK {else}         {end}%(L:A32NX_FCU_HDG_MANAGED_DOT, Number) (L:A32NX_TRK_FPA_MODE_ACTIVE, Number) + 0 == AND%{if}HDG {else}%(L:A32NX_TRK_FPA_MODE_ACTIVE, Number) 1 == (L:A32NX_FCU_HDG_MANAGED_DOT, Number) 0 == AND%{if}TRK {else}%(L:A32NX_TRK_FPA_MODE_ACTIVE, Number) (L:A32NX_FCU_HDG_MANAGED_DOT, Number) + 2 ==%{if}TRK*{else}%(L:A32NX_TRK_FPA_MODE_ACTIVE, Number) 0 == (L:A32NX_FCU_HDG_MANAGED_DOT, Number) 1 == AND%{if}HDG*{end}{end}{end}{end}  %(L:A32NX_FCU_ALT_MANAGED, Number) 1 ==%{if}ALT* {else}ALT  {end}%(L:A32NX_TRK_FPA_MODE_ACTIVE, Number) 1 ==%{if}  FPA{else}  V/S{end}</MainDisplayTopLeft>
+      <MainDisplayTopRight />
+      <MainDisplayBottomLeft>%(A:AUTOPILOT FLIGHT DIRECTOR ACTIVE:1, Bool) 1 ==%{if}FD{else}  {end} %(L:A32NX_FCU_SPD_MANAGED_DASHES, Bool) 1 ==%{if}---{else}%(A:AUTOPILOT MANAGED SPEED IN MACH, Bool)%{if}%(A:AUTOPILOT MACH HOLD VAR:1, Number)%!0.2f!{else}%(L:A32NX_AUTOPILOT_SPEED_SELECTED, Number)%!03d!{end}{end}  %(L:XMLVAR_Baro1_Mode, Number) 2 ==%{if}STD QNH {else}%(L:XMLVAR_Baro_Selector_HPA_1, Number) 1 ==%{if}QNH %(A:KOHLSMAN SETTING MB:1, Millibars)%!04d!{else}Hg %(A:KOHLSMAN SETTING HG:1, inHg)%!4.2f!{end}{end}%(L:A32NX_FCU_HDG_MANAGED_DASHES, Bool) 1 ==%{if}--- {else}%(L:A32NX_AUTOPILOT_HEADING_SELECTED, degrees)%!03d! {end} %(A:AUTOPILOT ALTITUDE LOCK VAR:3, feet)%!05d! %(L:A32NX_FCU_VS_MANAGED, Number) 1 ==%{if} ----{else}%(L:A32NX_TRK_FPA_MODE_ACTIVE, Number) 1 ==%{if} %(L:A32NX_AUTOPILOT_FPA_SELECTED, degrees) 0 ==%{if}+{end}%(L:A32NX_AUTOPILOT_FPA_SELECTED, degrees)%!+01.1f!{else}%(L:A32NX_AUTOPILOT_VS_SELECTED, feet per minute) 0 ==%{if}+{end}%(L:A32NX_AUTOPILOT_VS_SELECTED, feet per minute)%!+04d!{end}{end}</MainDisplayBottomLeft>
+      <MainDisplayBottomRight />
+      <Pages />
+    </DisplayProfile>
+  </displayProfiles>
+  <radioProfiles />
+</DisplayProfileDatabase>
